@@ -1,0 +1,29 @@
+{
+  "version": 1,
+  "deployAliases": {
+    "simplevotes3": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/simplevotes3.json",
+      "feepayerKeyPath": "/home/chariskms/.cache/zkapp-cli/keys/charis3.json",
+      "feepayerAlias": "charis3",
+      "fee": "0.1",
+      "smartContract": "Votes"
+    },
+    "simplevotes4": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/simplevotes4.json",
+      "feepayerKeyPath": "/home/chariskms/.cache/zkapp-cli/keys/charis3.json",
+      "feepayerAlias": "charis3",
+      "fee": "0.1",
+      "smartContract": "Votes"
+    },
+    "simplevotes5": {
+      "url": "https://proxy.berkeley.minaexplorer.com/graphql",
+      "keyPath": "keys/simplevotes5.json",
+      "feepayerKeyPath": "/home/chariskms/.cache/zkapp-cli/keys/charis3.json",
+      "feepayerAlias": "charis3",
+      "fee": "0.1",
+      "smartContract": "Votes"
+    }
+  }
+}
